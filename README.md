@@ -1,4 +1,4 @@
-### Bem vindos aos meu perfil 👋
+### 👋 Bem vindos aos meu perfil
 
 
 😊 Me chamo Marcela Bolognese, estou no segundo semestre em Análise e Desenvolvimento de Sistemas e sou estágiaria na Oracle.
