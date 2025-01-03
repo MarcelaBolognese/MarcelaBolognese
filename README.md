@@ -1,15 +1,15 @@
-### 👋 Bem vindos aos meu perfil
+### 👋 Welcome to my profile
 
 
-😊 Me chamo Marcela Bolognese, estou no segundo semestre em Análise e Desenvolvimento de Sistemas e sou estágiaria na Oracle.
+😊 My name is Marcela Bolognese. I have a degree in Systems Analysis and Development and I work as a Cloud Solution Engineer at Oracle.
 
-💻 Atualmente, estou focada em aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento de sistemas e com alguns projetos em desenvolvimento de game também. Meu objetivo é me tornar uma desenvolvedora competente e contribuir para projetos inovadores.
+💻 Currently, I am focused on improving my technical skills and expanding my knowledge in the field of system development, as well as working on some game development projects. My goal is to become a competent developer and contribute to innovative projects.
 
-📚 No meu tempo livre, amo ler e jogar, e busco sempre encontrar maneiras de unir meus interesses pessoais com a programação. Estou constantemente atualizando meu GitHub com projetos pessoais nos quais aplico os conhecimentos adquiridos.
+📚 In my free time, I love to read and play games, and I always seek ways to combine my personal interests with programming. I am constantly updating my GitHub with personal projects where I apply the knowledge I have acquired.
 
-🤝 Acredito na importância da aprendizagem contínua e estou sempre aberta a novos desafios e oportunidades de colaboração.
+🤝 I believe in the importance of continuous learning and am always open to new challenges and collaboration opportunities.
 
-🧡 Sinta-se à vontade para entrar em contato comigo através do meu perfil ou por meio das minhas redes sociais. Adoraria trocar experiências, discutir ideias ou colaborar em projetos interessantes.
+🧡 Feel free to contact me through my profile or on my social media. I would love to exchange experiences, discuss ideas, or collaborate on interesting projects.
 
 
 <div align="center">
